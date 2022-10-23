@@ -3,7 +3,7 @@
 ## by Augustine Omoregbee
 
 
-## Source Description
+## Data Source Description
 
 WeRateDogs is a Twitter account that regularly shares pictures of dogs, along with catchy descriptions. The pictures are rated out of 10, sometimes exceeding 10 because the dogs are good.
 
